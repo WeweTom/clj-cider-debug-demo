@@ -12,7 +12,7 @@ I use the latest nrepl  [org.clojure/tools.nrepl "0.2.10"] at https://github.com
 - move cursor to `make-resp` then `cider-debug-defun-at-point`
 - visit http://localhost:8080/ in browser
 
-![nrepl_version.png](nrepl)
+![nrepl](nrepl_version.png)
 
 ## Prerequisites
 

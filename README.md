@@ -2,7 +2,7 @@
 
 to test cider debug
 
-I use the latest nrepl  [org.clojure/tools.nrepl "0.2.10"]
+I use the latest nrepl  [org.clojure/tools.nrepl "0.2.10"] at https://github.com/clojure/tools.nrepl
 
 - lein new luminus clj-cider-debug-demo
 - clj-cider-debug-demo/src/clj_cider_debug_demo/routes/home.clj
